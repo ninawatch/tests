@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-ID="" tvg-name="MH TV Search" tvg-logo="http://search.webhypertv.xyz/search/images/506682076.png" group-title="MH TV",FILM NAME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0100287c634a4062bd02bafc7c0a651b":"2fd520466b1f9241a78de2395c464cee","0101deeeda638bb5bf01dbcc8b19b863":"6b53b2048baad39fad0c01366c4be809","010238b862da9a912535944c74a8f254":"534e43acff54121a1a1d1699f9db9706"}
+#EXTINF:-1,vod
+https://akm.eu.prd.media.max.com/r/dash.mpd?f.audioCodec=heaac&f.audioTrack=en-US%7Cdescriptive%2Cprogram&f.audioTrack=es-ES%7Cprogram&f.textTrack=en-US%7Csdh&f.textTrack=es-ES&f.videoCodec=avc&f.videoDynamicRange=sdr&f.videoMaxHeight=1080&f.videoMaxWidth=1920&r.duration=30.000000&r.duration=6306.174875&r.keymod=2&r.main=1&r.manifest=590244e4-83cb-41c1-8d7d-a8451f250a43%2F0_082064.mpd&r.manifest=9bbc6848-0351-4aef-a533-6e119e28b38f%2F2_ee03f6.mpd&r.origin=cfc%7Cprd-wbd-emea-vod&x-wbd-tenant=beam&x-wbd-user-home-market=emea
