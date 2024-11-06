@@ -1,0 +1,1884 @@
+<?php if (isset($_SERVER['HTTP_CLEARKEY'])) {} else {exit();} ?>
+
+#EXTM3U
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr", [Chaine TV]
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr", [Pas De Chaine]
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/1-TF1/1-TF1.png", 1 - TF1 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/1-TF1/1-TF1.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/2-france.2/2-france.2.png", 2 - france.2 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/2-france.2/2-france.2.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/3-france.3/3-france.3.png", 3 - france.3 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/3-france.3/3-france.3.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/4-CANALPLUS/4-CANALPLUS.png", 4 - CANAL+ (Clair) 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/4-CANALPLUS/4-CANALPLUS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/5-france.5/5-france.5.png", 5 - france.5 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/5-france.5/5-france.5.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/6-M6/6-M6.png", 6 - M6 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/6-M6/6-M6.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/7-ARTE/7-ARTE.png", 7 - ARTE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/7-ARTE/7-ARTE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/8-C8/8-C8.png", 8 - C8 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/8-C8/8-C8.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/9-W9/9-W9.png", 9 - W9 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/9-W9/9-W9.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/10-TMC/10-TMC.png", 10 - TMC 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/10-TMC/10-TMC.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/11-TFX/11-TFX.png", 11 - TFX 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/11-TFX/11-TFX.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/12-NRJ12/12-NRJ12.png", 12 - NRJ12 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/12-NRJ12/12-NRJ12.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.png", 13 - LCP-PublicSÃ©nat 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/13-LCP-PS/13-LCP-PS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/14-france.4/14-france.4.png", 14 - france.4 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/14-france.4/14-france.4.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/15-BFMTV/15-BFMTV.png", 15 - BFM TV. 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/15-BFMTV/15-BFMTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/16-CNEWS/16-CNEWS.png", 16 - CNEWS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/16-CNEWS/16-CNEWS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/17-CSTAR/17-CSTAR.png", 17 - CSTAR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/17-CSTAR/17-CSTAR.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/18-Gulli/18-Gulli.png", 18 - Gulli 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/18-Gulli/18-Gulli.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/19-KTO/19-KTO.png", 19 - KTO 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/19-KTO/19-KTO.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/20-TF1SERIESFILMS/20-TF1SERIESFILMS.png", 20 - TF1 SÃ‰RIES FILMS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/20-TF1SERIESFILMS/20-TF1SERIESFILMS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.png", 21 - L'Ã‰QUIPE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/21-LEQUIPE/21-LEQUIPE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/22-6ter/22-6ter.png", 22 - 6ter 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/22-6ter/22-6ter.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.png", 23 - RMC STORY 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/23-RMCSTORY/23-RMCSTORY.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.png", 24 - RMC DÃ‰COUVERTE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/25-Cherie25/25-Cherie25.png", 25 - ChÃ©rie25 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/25-Cherie25/25-Cherie25.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/26-LCI/26-LCI.png", 26 - LCI 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/26-LCI/26-LCI.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/27-franceinfo/27-franceinfo.png", 27 - franceinfo: 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/27-franceinfo/27-franceinfo.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/28-LCP/28-LCP.png", 28 - LCP 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/28-LCP/28-LCP.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.png", 29 - PublicSÃ©nat 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/29-PublicSenat/29-PublicSenat.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.png", 30 - 20' TV ÃŽLE-DE-FRANCE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/30-20MINUTESTVILEDEFRANCE/30-20MINUTESTVILEDEFRANCE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.png", 31 - france.tvsÃ©ries 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/31-france.tvseries/31-france.tvseries.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/32-france.tvdocs/32-france.tvdocs.png", 32 - france.tvdocs 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/32-france.tvdocs/32-france.tvdocs.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/33-LEMEDIA/33-LEMEDIA.png", 33 - LE MEDIA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/33-LEMEDIA/33-LEMEDIA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/34-SQOOLTV/34-SQOOLTV.png", 34 - SQOOL TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/34-SQOOLTV/34-SQOOLTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/35-euronews/35-euronews.png", 35 - euronews. 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/35-euronews/35-euronews.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/36-TV5MONDEINFO/36-TV5MONDEINFO.png", 36 - TV5MONDE INFO 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/36-TV5MONDEINFO/36-TV5MONDEINFO.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/37-TV5MONDEFBSM/37-TV5MONDEFBSM.png", 37 - TV5MONDE FBSM 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/37-TV5MONDEFBSM/37-TV5MONDEFBSM.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.png", 38 - i24NEWS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.png", 39 - FRANCE24 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/39-FRANCE24/39-FRANCE24.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/40-BSMART/40-BSMART.png", 40 - B SMART 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/40-BSMART/40-BSMART.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.png", 41 - TECH&CO 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/41-TECHANDCO/41-TECHANDCO.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/42-BFMBUSINESS/42-BFMBUSINESS.png", 42 - BFM BUSINESS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/42-BFMBUSINESS/42-BFMBUSINESS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/44-journaldugolftv/44-journaldugolftv.png", 44 - journal du golf tv 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/44-journaldugolftv/44-journaldugolftv.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/45-LESPRITSORCIERTV/45-LESPRITSORCIERTV.png", 45 - L'ESPRIT SORCIER TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/45-LESPRITSORCIERTV/45-LESPRITSORCIERTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/46-TAHITITV/46-TAHITITV.png", 46 - TAHITI TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/46-TAHITITV/46-TAHITITV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.png", 47 - Antenne RÃ‰UNION 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/47-AntenneREUNION/47-AntenneREUNION.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.png", 48 - TÃ©lÃ©-QuÃ©bec 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/49-GONG/49-GONG.png", 49 - GONG 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/49-GONG/49-GONG.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.png", 50 - GONG MAX 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/50-GONGMAX/50-GONGMAX.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/54-TVPitchoun/54-TVPitchoun.png", 54 - TV Pitchoun 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/54-TVPitchoun/54-TVPitchoun.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/55-TiJi/55-TiJi.png", 55 - TiJi 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/55-TiJi/55-TiJi.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/56-CanalJ/56-CanalJ.png", 56 - Canal J 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/56-CanalJ/56-CanalJ.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/99-RTL9/99-RTL9.png", 99 - RTL9 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/99-RTL9/99-RTL9.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.png", 110 - PARIS PREMIERE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/110-PARISPREMIERE/110-PARISPREMIERE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/111-teva/111-teva.png", 111 - tÃ©va 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/111-teva/111-teva.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png", 118 - Maison&TravauxTV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png", 119 - TOP SantÃ© TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/120-MYZENTV/120-MYZENTV.png", 120 - MY ZEN TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/120-MYZENTV/120-MYZENTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/122-FashionTV/122-FashionTV.png", 122 - Fashion TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/122-FashionTV/122-FashionTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/123-LUXETV/123-LUXETV.png", 123 - LUXE TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/123-LUXETV/123-LUXETV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.png", 124 - MEN'S UP TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/124-MENSUPTV/124-MENSUPTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/125-astrocenter.tv/125-astrocenter.tv.png", 125 - astrocenter.tv 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/125-astrocenter.tv/125-astrocenter.tv.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/129-MUSEUMTV/129-MUSEUMTV.png", 129 - MUSEUM TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/129-MUSEUMTV/129-MUSEUMTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/149-Melody/149-Melody.png", 149 - Melody 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/149-Melody/149-Melody.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/156-TRACELATINA/156-TRACELATINA.png", 156 - TRACE LATINA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/156-TRACELATINA/156-TRACELATINA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/161-CLUBBINGTV/161-CLUBBINGTV.png", 161 - CLUBBING TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/161-CLUBBINGTV/161-CLUBBINGTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/162-BBLACKAFRICA/162-BBLACKAFRICA.png", 162 - BBLACK! AFRICA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/162-BBLACKAFRICA/162-BBLACKAFRICA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/163-BBLACKCARIBBEAN/163-BBLACKCARIBBEAN.png", 163 - BBLACK! CARIBBEAN 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/163-BBLACKCARIBBEAN/163-BBLACKCARIBBEAN.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/164-BBLACKCLASSIK/164-BBLACKCLASSIK.png", 164 - BBLACK! CLASSIK 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/164-BBLACKCLASSIK/164-BBLACKCLASSIK.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/215-SPORTENFRANCE/215-SPORTENFRANCE.png", 215 - SPORT EN FRANCE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/215-SPORTENFRANCE/215-SPORTENFRANCE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/216-EQUIDIA/216-EQUIDIA.png", 216 - EQUIDIA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/216-EQUIDIA/216-EQUIDIA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/220-france.3alpes/220-france.3alpes.png", 220 - france.3 alpes 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/220-france.3alpes/220-france.3alpes.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/221-france.3alsace/221-france.3alsace.png", 221 - france.3 alsace 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/221-france.3alsace/221-france.3alsace.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/222-france.3aquitaine/222-france.3aquitaine.png", 222 - france.3 aquitaine 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/222-france.3aquitaine/222-france.3aquitaine.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/223-france.3auvergne/223-france.3auvergne.png", 223 - france.3 auvergne 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/223-france.3auvergne/223-france.3auvergne.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/224-france.3bassenormandie/224-france.3bassenormandie.png", 224 - france.3 basse normandie 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/224-france.3bassenormandie/224-france.3bassenormandie.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/225-france.3bourgogne/225-france.3bourgogne.png", 225 - france.3 bourgogne 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/225-france.3bourgogne/225-france.3bourgogne.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/226-france.3bretagne/226-france.3bretagne.png", 226 - france.3 bretagne 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/226-france.3bretagne/226-france.3bretagne.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/227-france.3centrevaldeloire/227-france.3centrevaldeloire.png", 227 - france.3 centre val de loire 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/227-france.3centrevaldeloire/227-france.3centrevaldeloire.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/228-france.3champagneardenne/228-france.3champagneardenne.png", 228 - france.3 champagne ardenne 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/228-france.3champagneardenne/228-france.3champagneardenne.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/229-france.3corse/229-france.3corse.png", 229 - france.3 corse 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/229-france.3corse/229-france.3corse.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/230-france.3cotedazur/230-france.3cotedazur.png", 230 - france.3 cÃ´te d'azur 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/230-france.3cotedazur/230-france.3cotedazur.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/231-france.3franchecomte/231-france.3franchecomte.png", 231 - france.3 franche-comtÃ© 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/231-france.3franchecomte/231-france.3franchecomte.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/232-france.3hautenormandie/232-france.3hautenormandie.png", 232 - france.3 haute normandie 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/232-france.3hautenormandie/232-france.3hautenormandie.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/233-france.3languedocroussillon/233-france.3languedocroussillon.png", 233 - france.3 languedoc roussillon 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/233-france.3languedocroussillon/233-france.3languedocroussillon.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/234-france.3limousin/234-france.3limousin.png", 234 - france.3 limousin 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/234-france.3limousin/234-france.3limousin.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/235-france.3lorraine/235-france.3lorraine.png", 235 - france.3 lorraine 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/235-france.3lorraine/235-france.3lorraine.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/236-france.3midipyrenees/236-france.3midipyrenees.png", 236 - france.3 midi-pyrÃ©nÃ©es 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/236-france.3midipyrenees/236-france.3midipyrenees.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/237-france.3NoA/237-france.3NoA.png", 237 - france.3 NoA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/237-france.3NoA/237-france.3NoA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/238-france.3nordpasdecalais/238-france.3nordpasdecalais.png", 238 - france.3 nord pas-de-calais 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/238-france.3nordpasdecalais/238-france.3nordpasdecalais.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/239-france.3parisiledefrance/239-france.3parisiledefrance.png", 239 - france.3 paris Ã®le-de-france 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/239-france.3parisiledefrance/239-france.3parisiledefrance.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/240-france.3paysdelaloire/240-france.3paysdelaloire.png", 240 - france.3 pays de la loire 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/240-france.3paysdelaloire/240-france.3paysdelaloire.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/241-france.3picardie/241-france.3picardie.png", 241 - france.3 picardie 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/241-france.3picardie/241-france.3picardie.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/242-france.3poitoucharentes/242-france.3poitoucharentes.png", 242 - france.3 poitou charentes 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/242-france.3poitoucharentes/242-france.3poitoucharentes.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/243-france.3provencealpes/243-france.3provencealpes.png", 243 - france.3 provence-alpes 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/243-france.3provencealpes/243-france.3provencealpes.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/244-france.3rhonealpes/244-france.3rhonealpes.png", 244 - france.3 rhÃ´ne-alpes 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/244-france.3rhonealpes/244-france.3rhonealpes.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/261-BFMALSACE/261-BFMALSACE.png", 261 - BFM ALSACE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/261-BFMALSACE/261-BFMALSACE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/262-BFMDICIALPESDUSUD/262-BFMDICIALPESDUSUD.png", 262 - BFM DICI ALPES DU SUD 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/262-BFMDICIALPESDUSUD/262-BFMDICIALPESDUSUD.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/263-BFMDICIHAUTEPROVENCE/263-BFMDICIHAUTEPROVENCE.png", 263 - BFM DICI HAUTE-PROVENCE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/263-BFMDICIHAUTEPROVENCE/263-BFMDICIHAUTEPROVENCE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/264-BFMGRANDLILLE/264-BFMGRANDLILLE.png", 264 - BFM GRAND LILLE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/264-BFMGRANDLILLE/264-BFMGRANDLILLE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/265-BFMGRANDLITTORAL/265-BFMGRANDLITTORAL.png", 265 - BFM GRAND LITTORAL 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/265-BFMGRANDLITTORAL/265-BFMGRANDLITTORAL.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/266-BFMLYON/266-BFMLYON.png", 266 - BFM LYON 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/266-BFMLYON/266-BFMLYON.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/267-BFMMARSEILLEPROVENCE/267-BFMMARSEILLEPROVENCE.png", 267 - BFM MARSEILLE PROVENCE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/267-BFMMARSEILLEPROVENCE/267-BFMMARSEILLEPROVENCE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/268-BFMNICECOTEDAZUR/268-BFMNICECOTEDAZUR.png", 268 - BFM NICE CÃ”TE D'AZUR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/268-BFMNICECOTEDAZUR/268-BFMNICECOTEDAZUR.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/269-BFMNORMANDIE/269-BFMNORMANDIE.png", 269 - BFM NORMANDIE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/269-BFMNORMANDIE/269-BFMNORMANDIE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/270-BFMPARISILEDEFRANCE/270-BFMPARISILEDEFRANCE.png", 270 - BFM PARIS ÃŽLE DE FRANCE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/270-BFMPARISILEDEFRANCE/270-BFMPARISILEDEFRANCE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/271-BFMTOULONVAR/271-BFMTOULONVAR.png", 271 - BFM TOULON VAR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/271-BFMTOULONVAR/271-BFMTOULONVAR.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/300-canal9/300-canal9.png", 300 - canal 9 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/300-canal9/300-canal9.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/301-RTS1/301-RTS1.png", 301 - RTS 1 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/301-RTS1/301-RTS1.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/302-RTS2/302-RTS2.png", 302 - RTS 2 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/302-RTS2/302-RTS2.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/303-tvm3/303-tvm3.png", 303 - tvm3 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/303-tvm3/303-tvm3.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/304-canalalpha/304-canalalpha.png", 304 - canal alpha 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/304-canalalpha/304-canalalpha.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/305-carac1/305-carac1.png", 305 - carac1 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/305-carac1/305-carac1.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/306-carac2/306-carac2.png", 306 - carac2 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/306-carac2/306-carac2.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/307-carac3/307-carac3.png", 307 - carac3 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/307-carac3/307-carac3.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/308-carac4/308-carac4.png", 308 - carac4 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/308-carac4/308-carac4.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/321-RTLclub/321-RTLclub.png", 321 - RTLclub 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/321-RTLclub/321-RTLclub.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/322-RTLplug/322-RTLplug.png", 322 - RTLplug 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/322-RTLplug/322-RTLplug.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/323-RTLtvi/323-RTLtvi.png", 323 - RTLtvi 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/323-RTLtvi/323-RTLtvi.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/325-laune/325-laune.png", 325 - la une 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/325-laune/325-laune.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/326-TiPiK/326-TiPiK.png", 326 - TiPiK 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/326-TiPiK/326-TiPiK.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/327-latrois/327-latrois.png", 327 - la trois 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/327-latrois/327-latrois.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/401-JUSTEPOURRIRE/401-JUSTEPOURRIRE.png", 401 - Pluto Tv JUSTE POUR RIRE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/401-JUSTEPOURRIRE/401-JUSTEPOURRIRE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/402-GAMINGTV/402-GAMINGTV.png", 402 - Pluto Tv GAMING TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/402-GAMINGTV/402-GAMINGTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/403-AVATAR/403-AVATAR.png", 403 - Pluto Tv AVATAR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/403-AVATAR/403-AVATAR.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/404-BobLepongeTV/404-BobLepongeTV.png", 404 - Pluto Tv Bob L'Ã©ponge TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/404-BobLepongeTV/404-BobLepongeTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/405-INAZUMAELEVEN/405-INAZUMAELEVEN.png", 405 - Pluto Tv INAZUMA ELEVEN 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/405-INAZUMAELEVEN/405-INAZUMAELEVEN.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/406-Sabrina/406-Sabrina.png", 406 - Pluto Tv Sabrina 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/406-Sabrina/406-Sabrina.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/407-TORTUESNINJA/407-TORTUESNINJA.png", 407 - Pluto Tv TORTUES NINJA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/407-TORTUESNINJA/407-TORTUESNINJA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/408-YuGiOh/408-YuGiOh.png", 408 - Pluto Tv Yu-Gi-Oh! 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/408-YuGiOh/408-YuGiOh.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/409-KIDSAnimation/409-KIDSAnimation.png", 409 - Pluto Tv KIDS Animation 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/409-KIDSAnimation/409-KIDSAnimation.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/410-KIDSClassics/410-KIDSClassics.png", 410 - Pluto Tv KIDS Classics 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/410-KIDSClassics/410-KIDSClassics.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/411-KIDSGAMING/411-KIDSGAMING.png", 411 - Pluto Tv KIDS GAMING 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/411-KIDSGAMING/411-KIDSGAMING.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/412-KIDSSERIES/412-KIDSSERIES.png", 412 - Pluto Tv KIDS SÃ‰RIES 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/412-KIDSSERIES/412-KIDSSERIES.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.png", 413 - Pluto Tv Angela Anaconda 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/413-AngelaAnaconda/413-AngelaAnaconda.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/414-BUBBLEGUPPIES/414-BUBBLEGUPPIES.png", 414 - Pluto Tv BUBBLE GUPPIES 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/414-BUBBLEGUPPIES/414-BUBBLEGUPPIES.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/415-CharlotteAuxFraises/415-CharlotteAuxFraises.png", 415 - Pluto Tv Charlotte Aux Fraises 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/415-CharlotteAuxFraises/415-CharlotteAuxFraises.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/416-daria/416-daria.png", 416 - Pluto Tv daria 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/416-daria/416-daria.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/417-DIGIMON/417-DIGIMON.png", 417 - Pluto Tv DIGIMON 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/417-DIGIMON/417-DIGIMON.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/418-DORATV/418-DORATV.png", 418 - Pluto Tv DORA TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/418-DORATV/418-DORATV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/419-JUNIOR/419-JUNIOR.png", 419 - Pluto Tv JUNIOR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/419-JUNIOR/419-JUNIOR.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/420-LesRazmoket/420-LesRazmoket.png", 420 - Pluto Tv Les Razmoket 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/420-LesRazmoket/420-LesRazmoket.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/421-ONEPIECE/421-ONEPIECE.png", 421 - Pluto Tv ONE PIECE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/421-ONEPIECE/421-ONEPIECE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/422-RETROTOONS/422-RETROTOONS.png", 422 - Pluto Tv RETRO TOONS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/422-RETROTOONS/422-RETROTOONS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/423-SOUTHPARK/423-SOUTHPARK.png", 423 - Pluto Tv SOUTH PARK 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/423-SOUTHPARK/423-SOUTHPARK.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/424-SUPERKIDS/424-SUPERKIDS.png", 424 - Pluto Tv SUPER KIDS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/424-SUPERKIDS/424-SUPERKIDS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/425-COMEDIE/425-COMEDIE.png", 425 - Pluto Tv COMÃ‰DIE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/425-COMEDIE/425-COMEDIE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/426-ACTION/426-ACTION.png", 426 - Pluto Tv ACTION 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/426-ACTION/426-ACTION.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/427-CATASTROPHE/427-CATASTROPHE.png", 427 - Pluto Tv CATASTROPHE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/427-CATASTROPHE/427-CATASTROPHE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/428-CINE/428-CINE.png", 428 - Pluto Tv CINÃ‰ 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/428-CINE/428-CINE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/429-CINEDASIE/429-CINEDASIE.png", 429 - Pluto Tv CINÃ‰ D'ASIE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/429-CINEDASIE/429-CINEDASIE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/430-CINERETRO/430-CINERETRO.png", 430 - Pluto Tv CINÃ‰ RÃ‰TRO 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/430-CINERETRO/430-CINERETRO.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/431-POLAR/431-POLAR.png", 431 - Pluto Tv POLAR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/431-POLAR/431-POLAR.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/432-ROMANCE/432-ROMANCE.png", 432 - Pluto Tv ROMANCE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/432-ROMANCE/432-ROMANCE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/433-SCIFI/433-SCIFI.png", 433 - Pluto Tv SCIFI 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/433-SCIFI/433-SCIFI.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/434-THEASYLUM/434-THEASYLUM.png", 434 - Pluto Tv THE ASYLUM 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/434-THEASYLUM/434-THEASYLUM.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/435-THRILLERS/435-THRILLERS.png", 435 - Pluto Tv THRILLERS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/435-THRILLERS/435-THRILLERS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/436-WILDSIDETV/436-WILDSIDETV.png", 436 - Pluto Tv WILD SIDE TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/436-WILDSIDETV/436-WILDSIDETV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/437-HISTOIRE/437-HISTOIRE.png", 437 - Pluto Tv HISTOIRE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/437-HISTOIRE/437-HISTOIRE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/438-PARANORMAL/438-PARANORMAL.png", 438 - Pluto Tv PARANORMAL 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/438-PARANORMAL/438-PARANORMAL.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/439-ALERTECOBRA/439-ALERTECOBRA.png", 439 - Pluto Tv ALERTE COBRA 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/439-ALERTECOBRA/439-ALERTECOBRA.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/440-AmourGloireEtBeaute/440-AmourGloireEtBeaute.png", 440 - Pluto Tv Amour, Gloire Et BeautÃ© 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/440-AmourGloireEtBeaute/440-AmourGloireEtBeaute.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/441-Degrassi/441-Degrassi.png", 441 - Pluto Tv Degrassi 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/441-Degrassi/441-Degrassi.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/442-DOCTORWHO/442-DOCTORWHO.png", 442 - Pluto Tv DOCTOR WHO 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/442-DOCTORWHO/442-DOCTORWHO.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/443-iCarly/443-iCarly.png", 443 - Pluto Tv iCarly 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/443-iCarly/443-iCarly.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/444-LESCORDIER/444-LESCORDIER.png", 444 - Pluto Tv LES CORDIER 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/444-LESCORDIER/444-LESCORDIER.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/445-LouislaBrocante/445-LouislaBrocante.png", 445 - Pluto Tv Louis la Brocante 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/445-LouislaBrocante/445-LouislaBrocante.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/446-MACGYVER/446-MACGYVER.png", 446 - Pluto Tv MACGYVER 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/446-MACGYVER/446-MACGYVER.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/447-MELROSEPLACE/447-MELROSEPLACE.png", 447 - Pluto Tv MELROSE PLACE 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/447-MELROSEPLACE/447-MELROSEPLACE.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/448-Series/448-Series.png", 448 - Pluto Tv Series 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/448-Series/448-Series.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/449-SERIESFANTASTIQUES/449-SERIESFANTASTIQUES.png", 449 - Pluto Tv SÃ‰RIES FANTASTIQUES 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/449-SERIESFANTASTIQUES/449-SERIESFANTASTIQUES.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/450-Ungarsunefille/450-Ungarsunefille.png", 450 - Pluto Tv Un gars, une fille 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/450-Ungarsunefille/450-Ungarsunefille.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/451-VICTORIOUS/451-VICTORIOUS.png", 451 - Pluto Tv VICTORIOUS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/451-VICTORIOUS/451-VICTORIOUS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/452-WALKERTEXASRANGER/452-WALKERTEXASRANGER.png", 452 - Pluto Tv WALKER Texas Ranger 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/452-WALKERTEXASRANGER/452-WALKERTEXASRANGER.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/461-RakutenTVACTION/461-RakutenTVACTION.png", 461 - Rakuten TV ACTION 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/461-RakutenTVACTION/461-RakutenTVACTION.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/462-RakutenTVDRAMES/462-RakutenTVDRAMES.png", 462 - Rakuten TV DRAMES 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/462-RakutenTVDRAMES/462-RakutenTVDRAMES.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/463-RakutenTVTHRILLERS/463-RakutenTVTHRILLERS.png", 463 - Rakuten TV THRILLERS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/463-RakutenTVTHRILLERS/463-RakutenTVTHRILLERS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/464-RakutenTVTOPFILMS/464-RakutenTVTOPFILMS.png", 464 - Rakuten TV TOP FILMS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/464-RakutenTVTOPFILMS/464-RakutenTVTOPFILMS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/481-caillou/481-caillou.png", 481 - Smart TV caillou 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/481-caillou/481-caillou.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/482-JELLYTOON/482-JELLYTOON.png", 482 - Smart TV JELLYTOON 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/482-JELLYTOON/482-JELLYTOON.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/483-SUPERTOONSTV/483-SUPERTOONSTV.png", 483 - Smart TV SUPER TOONS TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/483-SUPERTOONSTV/483-SUPERTOONSTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/484-XILAMTV/484-XILAMTV.png", 484 - Smart TV XILAM TV 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/484-XILAMTV/484-XILAMTV.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/485-MOTUS/485-MOTUS.png", 485 - Smart TV MOTUS 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/485-MOTUS/485-MOTUS.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.png", 486 - Smart TV L'Ã‰QUIPE live 1 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/486-LEQUIPElive1/486-LEQUIPElive1.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/487-LEQUIPElive2/487-LEQUIPElive2.png", 487 - Smart TV L'Ã‰QUIPE live 2 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/487-LEQUIPElive2/487-LEQUIPElive2.php?Pas_d_information_disponible
+
+#EXTINF:-1 group-title="France" tvg-logo="https://callofliberty.fr/tv/488-WORLDPOKERTOUR/488-WORLDPOKERTOUR.png", 488 - Smart TV WORLD POKER TOUR 
+
+#EXTVLCOPT:http-referrer=https://callofliberty.fr/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; SM-N976N Build/PQ3A.190605.04081832; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36
+
+#EXTVLCOPT:http-find=m3u8
+
+https://callofliberty.fr/tv/488-WORLDPOKERTOUR/488-WORLDPOKERTOUR.php?Pas_d_information_disponible
+
